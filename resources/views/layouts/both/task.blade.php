@@ -12,7 +12,7 @@
                 <li>
                     <a>
                         Stay on top of your progress! Review and complete the tasks assigned to you, keeping the project
-                        on track to success.
+                        on track to success
                     </a>
                 </li>
             </ol>
