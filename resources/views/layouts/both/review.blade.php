@@ -10,7 +10,7 @@
         <h1>Reflect on Your Project Journey!</h1>
         <nav class="breadcrumbs">
             <ol>
-                <li><a>Share valuable insights and help us recognize outstanding freelancers.</a></li>
+                <li><a>Share valuable insights and help us recognize outstanding freelancers</a></li>
             </ol>
         </nav>
     </div>
