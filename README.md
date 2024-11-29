@@ -11,7 +11,6 @@ The **Freelance Management System** is a web-based platform designed to connect 
 - **Task Collaboration**: Commenting and discussion features for efficient communication.
 - **Notifications**: Status updates for project applications and task progress.
 - **Review System**: Clients can leave feedback and ratings for completed projects.
-- **Admin Dashboard**: Manage users, projects, and overall system activities.
 
 ### Technology Stack
 - **Backend**: Laravel Framework (PHP)  
